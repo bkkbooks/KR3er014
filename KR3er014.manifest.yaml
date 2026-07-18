@@ -27,10 +27,10 @@ assets:
   markers:
   - {seq: 1, role: markers, filename: assets/KR3er014_001.markers.yaml, hash: 'sha256:572d0e1272bf743c2ea2aa47e8fffce523da024608832a2a9b667338a4d48e5d'}
   - {seq: 2, role: markers, filename: assets/KR3er014_002.markers.yaml, hash: 'sha256:f8cf2b40b0b450d77ee1ef07c87673b30520a405b6e613b559ad96e83d77f95b'}
-  - {seq: 3, role: markers, filename: assets/KR3er014_003.markers.yaml, hash: 'sha256:13e8ca1e056ff8ccf199e5adffc7fa2ba8f8006b5118f3e1dfee08b3dac54c2e'}
-  - {seq: 4, role: markers, filename: assets/KR3er014_004.markers.yaml, hash: 'sha256:d5344886d0031faab5b28c0c2f0b6ddea48b7674f214fe2f0203f6de9263c3cf'}
-  - {seq: 5, role: markers, filename: assets/KR3er014_005.markers.yaml, hash: 'sha256:5f0e72f199793fd35a63229c7d75a45efb28e47213673cf112ab91a23f927dc5'}
-  - {seq: 6, role: markers, filename: assets/KR3er014_006.markers.yaml, hash: 'sha256:5193675dbb85fa505868c704181fdbba9b7b235833b4362fa61f60ae4988f617'}
+  - {seq: 3, role: markers, filename: assets/KR3er014_003.markers.yaml, hash: 'sha256:9bc3e65033211c47983f1a72ecdc6c15a78fd783b8af04181e2c81632f52826a'}
+  - {seq: 4, role: markers, filename: assets/KR3er014_004.markers.yaml, hash: 'sha256:e37857f81e51a856b1945b12c910d0612034d084df03cbe9c6c39becfb5fce4c'}
+  - {seq: 5, role: markers, filename: assets/KR3er014_005.markers.yaml, hash: 'sha256:46e8bdcddd1ad0ec806e847810f28246083d033edba341315c2743655af7666f'}
+  - {seq: 6, role: markers, filename: assets/KR3er014_006.markers.yaml, hash: 'sha256:3869166120db0fba0db6c4f9c707814058c85ed664ce9dc999a06294182e33bd'}
   - {seq: 7, role: markers, filename: assets/KR3er014_007.markers.yaml, hash: 'sha256:87d145718a4b077b5bc8965eedc812c93a71e69ba6caba82a409e0953ba07f61'}
 table_of_contents:
 - ref:
@@ -4103,7 +4103,7 @@ table_of_contents:
   label: 跋
   type: section
   level: 1
-hash: sha256:fda001fedf5662b08dedb179ec908717b31b152cb885e95f594a18872a82299d
+hash: sha256:9bed446e8095099350406390cb92f8ba2de33dc8c2332eeb5fdc95aae35cb740
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
